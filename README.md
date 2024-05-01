@@ -1,3 +1,3 @@
-# ai-complete
+# aicomplete
 
 A better autocomplete.
